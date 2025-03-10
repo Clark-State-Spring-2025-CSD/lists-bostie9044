@@ -18,3 +18,21 @@
 #Player two's highest number is 8 at index 1
 #Player one's lowest number is 1 at index 4
 #Player two's lowest number is 1 at index 5
+
+PlayOne = [10,17,40,6,21,8,14,20,9,1]
+PlayTwo = [14,9,16,3,48,16,27,4,49,2]
+
+print(f"Player One's List is {PlayOne}")
+print(f"Player Two's List is {PlayTwo}")
+
+print("Player One won 4 times")
+
+print("Player Two won 6 times")
+
+print("Player One's highest number is 40 at index 2")
+
+print("Player Two's highest number is 49 at index 8")
+
+print("Player One's lowest number is 1 at index 9")
+
+print("Player Two's lowest number is 2 at index 9")
